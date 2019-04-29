@@ -7,11 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This is a pixel art creating and sharing web application. 
 ### Features
-Include Features here
+Artist can create pixel art using addative, subtractive and opaque colors.
+Artist and other users can comment and like other art.
+The home page show a summary of recent and popular art.
+
 ### Technologies
-Include Technologies here
+Frontend:
+- JavaScript
+- React.JS
+- Vanilla CSS
+- HTML
+
+Backend:
+- Java
+- Springboot
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+- Better understanding of React.JS
+- User authentication
+- Unknown unknowns 
