@@ -7,11 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-This is a pixel art creating and sharing web application. 
+Toasty Pixels is an art creation and art sharing website. The art creator allows artist to intuitively create beautiful pixel art. Artist can use additive and subtractive light, choosing colors from a coordinated color palette. The art sharing portion of the website allows users to interact with artist work. The art creation tools is what makes this site unique. Traditionally, pixel art tools feel opaque and rigid. By using difern't types of light and opacity the art on Toasty Pixels will feel "toasty".
+
+
 ### Features
-Artist can create pixel art using addative, subtractive and opaque colors.
-Artist and other users can comment and like other art.
-The home page show a summary of recent and popular art.
+
+ 
+Create Art:
+Users will be able to creat pixel art. User will choose a specific palette and will be able to use addative, subtractive or opaque light.
+
+View Art:
+Users will be able to browse popular art or new art. The user will be able to interact with the art leaving comments and or reactions.
+
+User Login:
+Users will be able to create accounts and log in to the application. Each user will have a profile page.
+
+
+
 
 ### Technologies
 Frontend:
@@ -27,4 +39,4 @@ Backend:
 ### What I'll Have to Learn
 - Better understanding of React.JS
 - User authentication
-- Unknown unknowns 
+- Building an API 
